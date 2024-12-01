@@ -2,7 +2,10 @@
 
 Berikut Merupakan Project UAS Teori/Praktikum Mobile Abyan Makarim
 
-## Getting Started
+## Deskripsi
+Aplikasi VORFILM merupakan aplikasi infomarsi Film berbasis Flutter, user dapat mendapakatkan informasi Film terbaru lewat aplikasi ini baik dalam hal Film yang akan segera rilis, Film dengan rating terbaik, dan film yang sedang tayang di bioskop. User juga dapat melihat detail informasi tiap film
+
+## List Kodingan
 
 ![Screenshot 2024-12-01 141724](https://github.com/user-attachments/assets/9e41e014-5701-43f9-b4a6-3ed4ac7f3538)
 
