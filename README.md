@@ -8,6 +8,7 @@ Aplikasi VORFILM merupakan aplikasi infomarsi Film berbasis Flutter, user dapat 
 
 ## Builder
 ![Screenshot 2024-12-01 141724](https://github.com/user-attachments/assets/9e41e014-5701-43f9-b4a6-3ed4ac7f3538)
+-
 Dalam Pembuatannya Aplikasi ini berisi 3 hal penting yaitu Component, Model, Pages, dan Provider untuk penjelasan tiap bagiannya akan dijelaskan dibawah
 
 ### Component
